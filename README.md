@@ -1,6 +1,6 @@
 # practiseportfolio
 
-Still Updating.
+Needs Updating.
 
 Small practise portfolio to implement more html, css and some javascript.
 
